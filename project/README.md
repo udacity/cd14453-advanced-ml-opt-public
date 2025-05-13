@@ -33,7 +33,7 @@ Which are all collected within the `requirements.txt` file.
 You can install for your environment by running `pip install -r requirements.txt`.
 
 
-3. Install the project as a local package (this makes internal modules accessible).
+3. Install the project as a local package (this makes internal modules accessible). From the `starter-kit` directory run the following command:
 
 ```sh
 pip install -e .
